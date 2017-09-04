@@ -5,4 +5,6 @@ root 'pages#home'
 
 get 'about' => 'pages#about'
 
+resources :articles
+
 end
