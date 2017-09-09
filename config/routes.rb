@@ -7,4 +7,9 @@ get 'about' => 'pages#about'
 
 resources :articles
 
+get 'signup' => 'users#new'
+
+resources :users, except: [:new]
+# post 'users' => 'users#create' instead of what's above this
+
 end
