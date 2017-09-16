@@ -1,4 +1,4 @@
-This is the repository for the π post, my first solo attempt at creating an app using my online Ruby on Rails course.
+This is the repository for "the π post", my first solo attempt at creating an app.
 
 # README
 
